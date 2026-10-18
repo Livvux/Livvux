@@ -6,7 +6,6 @@ Freelance software engineer & developer passionate about open-source tools, high
 
 #### 🚀 What I'm Building & Maintaining
 
-- 🌐 **[RPScripts](https://rpscripts.net)** — Curated marketplace and developer tooling platform for GTA V / FiveM server developers (supporting ESX, QBCore, and Qbox frameworks).
 - 🛠️ **[FiveM FXManifest Generator](https://github.com/Livvux/fivem-fxmanifest-generator)** — Browser-based manifest syntax generator and compatibility validator.
 - 💬 **[openDiscord](https://github.com/Livvux/openDiscord)** — Open-source, self-hostable community chat platform.
 - 💻 **[livvux.dev](https://livvux.dev)** — Personal portfolio & engineering writeups.
