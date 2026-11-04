@@ -19,10 +19,10 @@ I care about **open source, transparency, privacy, performance, and software fre
 #### 🎮 FiveM & Game Development
 
 - **[FiveM FXManifest Generator](https://github.com/Livvux/fivem-fxmanifest-generator)** — Browser-based manifest generator and compatibility validator.
-- **[FiveM FXManifest Lint](https://github.com/Livvux/fivem-fxmanifest-lint)** — Linting and validation tools for FiveM resource manifests.
+- **[FiveM FXManifest Lint](https://github.com/rpScripts/fivem-fxmanifest-lint)** — Linting and validation tools for FiveM resource manifests.
 - **[FiveM API](https://github.com/Livvux/fivem-api)** — Developer tooling for the FiveM ecosystem.
 - **[QBCore.net](https://qbcore.net)** — Developer documentation, guides, and resources for QBCore.
-- **[FiveMDocs](https://github.com/Livvux/fivemdocs)** — Community-driven FiveM documentation.
+- **[FiveMDocs](https://fivemdocs.com)** — Community-driven FiveM documentation.
 - **[CodeWalkerMod](https://codewalkermod.com)** — CodeWalker resources and browser-based tooling for GTA V modding.
 - **[RP Scripts](https://rpscripts.net)** — FiveM scripts, resources, and developer guides.
 
@@ -31,15 +31,13 @@ I care about **open source, transparency, privacy, performance, and software fre
 - **[GetDown](https://github.com/Livvux/getdown)** — Free, self-hostable video and audio downloader powered by yt-dlp and FFmpeg.
 - **[How Its Built](https://livvux.dev)** — Privacy-conscious browser extension for detecting website technologies.
 - **[TranslatePress LLM Engines](https://github.com/Livvux/translatepress-llm-engines)** — OpenAI, Claude, and OpenRouter translation engines for WordPress.
-- **[WordPress MCP Client](https://github.com/Livvux/wordpress-mcp-client)** — Model Context Protocol integration for WordPress.
 - **[pr0vault](https://github.com/Livvux/pr0vault)** — Chrome extension for local full-text search and automatic content backups.
 - **[Rank Math AI Freedom](https://github.com/Livvux/rankmath-ai-freedom)** — WordPress SEO and AI tooling.
 - **[WebP Conv](https://github.com/Livvux/webp-conv)** — Image conversion utility.
 
 #### 🎨 Creator Tools
 
-- **[StreamerLoft](https://github.com/Livvux/streamerloft)** — WordPress toolkit for Twitch creators.
-- **[Tinycast](https://github.com/Livvux/tinycast)** — Creator-focused project.
+- **[Tinycast DigUp](https://github.com/Livvux/tinycast-digup)** — Native macOS launcher with clipboard history and DigUp file search.
 - **[Lyrica](https://github.com/Livvux/lyrica)** — Video creation and rendering project.
 
 ---
