@@ -39,6 +39,7 @@ I care about **open source, transparency, privacy, performance, and software fre
 
 - **[Tinycast DigUp](https://github.com/Livvux/tinycast-digup)** — Native macOS launcher with clipboard history and DigUp file search.
 - **[Lyrica](https://github.com/Livvux/lyrica)** — Video creation and rendering project.
+- **[MockupChat](https://mockupchat.com)** — Browser-based chat mockup generator for 16 messaging apps, with PNG/MP4 export and a public MCP server for AI agents.
 
 ---
 
